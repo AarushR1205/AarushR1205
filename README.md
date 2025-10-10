@@ -63,6 +63,6 @@ Here are some of the projects I'm most proud of.
 I'm always open to connecting with other developers and exploring new opportunities.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aarush-rawat-24b698350" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />Aarush Rawat</a> &nbsp;
-  <a href="rawataarush2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />Aarush Rawat</a>
+  <a href="https://www.linkedin.com/in/aarush-rawat-24b698350" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
+  <a href="rawataarush2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
