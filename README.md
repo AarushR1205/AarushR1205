@@ -57,11 +57,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AarushR1205&theme=radical" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
+  <a href="https://share.streamlit.io/user/aarushr1205">
+    <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&style=for-the-badge" />
+  </a>
 </p>
 
 ---
