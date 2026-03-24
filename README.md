@@ -1,68 +1,78 @@
-<div align="center">
-  
-  <h1>
-    Hey there, I'm Aarush! 👋
-  </h1>
-  
-  <h3>
-    A passionate Front-End Developer creating modern and interactive web experiences.
-  </h3>
-
-  <p>
-    I love bringing ideas to life with clean code and beautiful design. I specialize in building dynamic, responsive websites with a focus on smooth user interactions and advanced animations.
-  </p>
-  
-</div>
+<h1 align="center">Hi 👋, I'm Aarush Rawat</h1>
+<h3 align="center">Aspiring AI/ML Engineer | Python Developer | Deep Learning Enthusiast</h3>
 
 ---
 
-## 💻 My Tech Stack
+## 🧠 About Me
 
-Here are some of the technologies I'm proficient with:
+- 🎓 Final Year B.Tech CSE Student  
+- 🤖 Passionate about AI, Machine Learning & Deep Learning  
+- 📊 Built multiple ML projects with 85%+ accuracy  
+- 🚀 Currently exploring Deep Learning & Generative AI  
+- 🌍 Open to job opportunities & internships in AI/ML  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `SQL` `Javascript (Basics)`  
+
+**Libraries & Frameworks:**  
+`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Tensorflow`  
+
+**ML & AI:**  
+`Machine Learning` `Data Analysis` `Model Deployment (Streamlit)`  
+
+**Tools & Platforms:**  
+`Git` `GitHub` `Jupyter Notebook` `VS Code` `Google Colab`  
+
+---
+
+## 🔥 Projects
+
+### 🫀 Heart Stroke Prediction System
+- Built ML model with **85%+ accuracy**
+- Performed EDA, feature engineering & model tuning  
+- Deployed using **Streamlit**  
+- 👉 [View Project](https://github.com/AarushR1205/heart-stroke-prediction.git)
+
+---
+
+### 🎬 Movie Review Sentiment Analyzer System
+- Classifying reviews as positive and negative with their probabilities
+- Displaying World Cloud of the review given as input
+- Used cosine similarity & NLP techniques  
+- 👉 [View Project](https://github.com/AarushR1205/movie-review-sentiment-analyzer.git)
+
+---
+
+### 📊 IPL Data Analysis
+- Performed EDA & visualization  
+- Extracted key insights using Pandas & Matplotlib  
+- 👉 [View Project](https://github.com/AarushR1205/IPL-Data-Analysis-Visualization-Project.git)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,gsap,threejs,figma,vscode,git,github" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
 </p>
 
 ---
 
-## ✨ Featured Projects
+## 📫 Connect With Me
 
-Here are some of the projects I'm most proud of.
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌋 Magma Website Clone</h3>
-      <p>A high-fidelity clone of the Magma website, focusing on complex scroll-triggered animations using GSAP, ScrollTrigger, and Locomotive Scroll. This project was a deep dive into creating a seamless, video-like scrolling experience with canvas image sequencing.</p>
-      <a href="https://github.com/AarushR1205/Magma-Website" target="_blank"><strong>View Repository &rarr;</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Magma Clone (Static)</h3>
-      <p>A front-end replication of the Magma company website built with pure HTML, CSS, and vanilla JavaScript. This project focuses on fundamental web development skills, ensuring a fully responsive and pixel-perfect layout across all devices.</p>
-      <a href="https://github.com/AarushR1205/Magma-Clone-Website" target="_blank"><strong>View Repository &rarr;</strong></a>
-    </td>
-  </tr>
-</table>
+- 💼 LinkedIn: https://www.linkedin.com/in/aarush-rawat-24b698350/ 
+- 📧 Email: rawataatush2005@gmail.com 
 
 ---
 
-## 📊 My GitHub Stats
+## ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AarushR1205&show_icons=true&theme=dracula&rank_icon=github" alt="Aarush's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AarushR1205&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Get in Touch
-
-I'm always open to connecting with other developers and exploring new opportunities.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aarush-rawat-24b698350" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-  <a href="rawataarush2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+I love building AI projects that solve real-world problems and continuously push myself to learn cutting-edge technologies 🚀
