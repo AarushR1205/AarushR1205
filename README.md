@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aarush Rawat</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Python Developer | Deep Learning Enthusiast</h3>
+<h3 align="center">Aspiring AI/ML Engineer</h3>
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 Final Year B.Tech CSE Student  
-- 🤖 Passionate about AI, Machine Learning & Deep Learning  
+- 🤖 Passionate about AI/ML and its integration into our daily lives
 - 📊 Built multiple ML projects with 85%+ accuracy  
 - 🚀 Currently exploring Deep Learning & Generative AI  
 - 🌍 Open to job opportunities & internships in AI/ML  
@@ -15,42 +15,42 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `SQL` `Javascript (Basics)`  
+**Programming Languages:**  
+`Python` `SQL` `Javascript` `C++`  
 
 **Libraries & Frameworks:**  
-`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Tensorflow`  
+`NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Tensorflow` `Langchain` 
+`Langgraph` `Pydantic` `FastAPI`
 
-**ML & AI:**  
-`Machine Learning` `Data Analysis` `Model Deployment (Streamlit)`  
+**AI/ML:**  
+`Artificial Intelligence` `Machine Learning` `Data Analysis & Visualization ` 
+`Deep Learning` `Generative AI` `Agentic AI`  
 
 **Tools & Platforms:**  
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `Google Colab`  
+`Git` `GitHub` `Jupyter Notebook` `VS Code` `Google Colab` `Antigravity` `Deployment` `LLMs` 
 
 ---
 
 ## 🔥 Projects
 
+### 🤖 ResearchMind – AI Research System
+- Designed a modular multi-agent LLM framework with Search, Reader, Writer, and Critic agents for automated research workflows.
+- Deployed an interactive Streamlit application enabling real-time, end-to-end AI research generation. 
+- 👉 [View Project](https://github.com/AarushR1205/AI-Research-System.git)
+
+---
+
+### 📊 Mental Health Score Predictor
+- Developed and deployed a full-stack ML application integrating a Scikit-learn regression model with a FastAPI REST API for real-time predictions.
+- Implemented an automated Pandas preprocessing pipeline and JavaScript frontend to streamline data processing and prediction delivery. 
+- 👉 [View Project](https://github.com/AarushR1205/mental-health-score-predictor.git)
+
+---
+
 ### 🫀 Heart Stroke Prediction System
-- Built ML model with **85%+ accuracy**
-- Performed EDA, feature engineering & model tuning  
-- Deployed using **Streamlit**  
+- Developed an end-to-end ML pipeline achieving 91% accuracy, incorporating data preprocessing, feature engineering, and hyperparameter tuning.
+- Evaluated model performance using precision, recall, and error analysis, and deployed the trained model through an interactive Streamlit application.
 - 👉 [View Project](https://github.com/AarushR1205/heart-stroke-prediction.git)
-
----
-
-### 🎬 Movie Review Sentiment Analyzer System
-- Classifying reviews as positive and negative with their probabilities
-- Displaying World Cloud of the review given as input
-- Used cosine similarity & NLP techniques  
-- 👉 [View Project](https://github.com/AarushR1205/movie-review-sentiment-analyzer.git)
-
----
-
-### 📊 IPL Data Analysis
-- Performed EDA & visualization  
-- Extracted key insights using Pandas & Matplotlib  
-- 👉 [View Project](https://github.com/AarushR1205/IPL-Data-Analysis-Visualization-Project.git)
 
 ---
 
