@@ -5,11 +5,13 @@
 
 ## 🧠 About Me
 
-- 🎓 Final Year B.Tech CSE Student  
-- 🤖 Passionate about AI/ML and its integration into our daily lives
-- 📊 Built multiple ML projects with 85%+ accuracy  
-- 🚀 Currently exploring Deep Learning & Generative AI  
-- 🌍 Open to job opportunities & internships in AI/ML  
+I'm a B.Tech Computer Science & Engineering graduate focused on building practical AI/ML and Generative AI applications. I enjoy turning data and emerging AI technologies into solutions that solve real-world problems.
+
+- 🧠 Strong foundation in Machine Learning, Deep Learning, NLP, and Generative AI
+- 🤖 Building applications with LLMs, RAG, LangChain, and Agentic AI
+- 🐍 Experienced in Python, Scikit-learn, TensorFlow, Pandas, and NumPy
+- ⚡ Building and deploying AI applications using FastAPI and Streamlit
+- 🚀 Interested in AI/ML Engineer, Generative AI, and Machine Learning roles
 
 ---
 
