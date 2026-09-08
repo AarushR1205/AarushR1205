@@ -100,15 +100,8 @@ Jun 2025 – Sep 2025
 
 ---
 
-
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/aarush-rawat-24b698350/ 
-- 📧 Email: rawataatush2005@gmail.com 
-
----
-
-## ⚡ Fun Fact
-
-I love building AI projects that solve real-world problems and continuously push myself to learn cutting-edge technologies 🚀
+- 📧 Email: rawataatush2005@gmail.com
+- 📸 Instagram : https://www.instagram.com/aarushr05/
