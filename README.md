@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarush Rawat</h1>
-<h3 align="center">Aspiring AI/ML Engineer</h3>
+<h3 align="center">AI/ML Engineer | Generative AI | LLMs | RAG | Agentic AI</h3>
 
 ---
 
