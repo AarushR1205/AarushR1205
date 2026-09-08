@@ -59,6 +59,31 @@ I'm a B.Tech Computer Science & Engineering graduate focused on building practic
 
 ---
 
+## 💼 Internships
+
+### 🤖 AI/ML Intern — Mobilise App Ltd
+May 2026 – Jul 2026
+
+- Developed and evaluated machine learning models using Python for real-world use cases.
+- Worked across the ML lifecycle including data preprocessing, feature engineering, model training, and performance evaluation.
+
+---
+
+### 📊 Data Science Intern — Innovateloop Solutions
+Feb 2026 – Mar 2026
+
+- Built end-to-end ML pipelines using Python, Pandas, and NumPy.
+- Trained and optimized Logistic Regression and Decision Tree models through hyperparameter tuning.
+
+---
+
+### 💻 Full Stack Developer Intern — SmartEd Innovations
+Jun 2025 – Sep 2025
+
+- Developed a MERN-based Job Listing Portal with role-based access, applicant tracking, and real-time Socket.IO notifications.
+- Integrated Google Generative AI for resume parsing and candidate-job matching.
+- Local deployment done
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -72,6 +97,8 @@ I'm a B.Tech Computer Science & Engineering graduate focused on building practic
 </p>
 
 ---
+
+
 
 ## 📫 Connect With Me
 
