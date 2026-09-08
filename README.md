@@ -84,6 +84,8 @@ Jun 2025 – Sep 2025
 - Integrated Google Generative AI for resume parsing and candidate-job matching.
 - Local deployment done
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
