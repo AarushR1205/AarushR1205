@@ -26,6 +26,9 @@
 `Artificial Intelligence` `Machine Learning` `Data Analysis & Visualization ` 
 `Deep Learning` `Generative AI` `Agentic AI`  
 
+**Development:**
+`HTML` `CSS` `JavaScript` `REST API` `React.js` `Node.js` `Express.js` `MongoDB` 
+
 **Tools & Platforms:**  
 `Git` `GitHub` `Jupyter Notebook` `VS Code` `Google Colab` `Antigravity` `Deployment` `LLMs` 
 
