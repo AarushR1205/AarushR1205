@@ -36,7 +36,15 @@ I'm a B.Tech Computer Science & Engineering graduate focused on building practic
 
 ---
 
-## 🔥 Projects
+## 🔥 Top Projects
+
+### ✈️ TripMate AI – AI Travel Planner
+
+- Developed an AI-powered travel planning application that gathers flight information, researches hotels, generates day-by-day itineraries, and provides structured travel recommendations.
+- Built a multi-agent workflow using LangGraph, Groq, FastAPI, Tavily, AviationStack, and PostgreSQL with persistent conversation checkpoints and real-time travel data integration.
+- 👉 [View Project](https://github.com/AarushR1205/TripMate-AI.git)
+
+---
 
 ### 🤖 ResearchMind – AI Research System
 - Designed a modular multi-agent LLM framework with Search, Reader, Writer, and Critic agents for automated research workflows.
@@ -52,14 +60,12 @@ I'm a B.Tech Computer Science & Engineering graduate focused on building practic
 
 ---
 
-### 🫀 Heart Stroke Prediction System
-- Developed an end-to-end ML pipeline achieving 91% accuracy, incorporating data preprocessing, feature engineering, and hyperparameter tuning.
-- Evaluated model performance using precision, recall, and error analysis, and deployed the trained model through an interactive Streamlit application.
-- 👉 [View Project](https://github.com/AarushR1205/heart-stroke-prediction.git)
+## 💼 Internships
+
+### 🤖 AI Developer — Uniworld Studios Pvt Ltd
+Aug 2026 - Present
 
 ---
-
-## 💼 Internships
 
 ### 🤖 AI/ML Intern — Mobilise App Ltd
 May 2026 – Jul 2026
